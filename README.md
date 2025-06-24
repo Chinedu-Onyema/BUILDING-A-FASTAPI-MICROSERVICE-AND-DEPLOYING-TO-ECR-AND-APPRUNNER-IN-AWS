@@ -2,8 +2,12 @@
 
 In this project, i created a Continous Integration and Continous Delivery pipeline using the fastAPI. 
 
-TOOLS
+# TOOLS
+
 GitHub Codespaces
+
 AWS Cloudshell
+
 AWS Elastic Container Registry
+
 AWS AppRunner
